@@ -5,7 +5,7 @@ Versatile Computer Science student at <strong>University of Pretoria</strong>, c
 </p>
 
 <p align="center" style="color:#FF69B4; font-family: 'Comic Sans MS', cursive, sans-serif;">
-Experienced in HPC environments using Rocky Linux cloud servers, Python scripting, SQL/PostgreSQL, and responsive web development with React, HTML/CSS, and DaisyUI. Passionate about how systems connect, currently upskilling in <strong>Docker</strong>, <strong>Kubernetes</strong>, and <strong>CI/CD pipelines</strong>.
+Experienced in HPC environments using Rocky Linux cloud servers, Python scripting, SQL/PostgreSQL, and responsive web development with React, HTML/CSS, and DaisyUI. Passionate about how systems connect, currently upskilling in <strong>Testing</strong> and <strong>CI/CD pipelines</strong>.
 </p>
 
 <p align="center" style="color:#FF69B4; font-family: 'Comic Sans MS', cursive, sans-serif;">
